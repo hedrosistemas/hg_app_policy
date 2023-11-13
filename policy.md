@@ -1,123 +1,124 @@
-**POLÍTICA DE PRIVACIDADE**  
+**PRIVACY POLICY**
 
-LGPD – Lei n° 13.709/2018 
+LGPD – Law No. 13,709/2018
 
-**Última versão: 5 de junho de 2023.**
+**Last updated: June 5, 2023.**
 
-O presente documento, doravante denominado “Política de Privacidade”, detalha a forma com que  a **HEDRO SISTEMAS INTELIGENTES LTDA,** estabelecida na rua Hélio Ribeiro, 212, Centro, Entre Rios de Minas/MG, inscrita no CNPJ sob o nº 26.199.823/0001-81, neste ato representada conforme seus atos constitutivos, coleta, armazena e utiliza os dados pessoais de usuários de suas soluções, bem como de seus parceiros comerciais.
+This document, hereinafter referred to as the "Privacy Policy," outlines how **HEDRO INTELLIGENT SYSTEMS LTD,** located at Hélio Ribeiro Street, 212, Centro, Entre Rios de Minas/MG, registered under CNPJ No. 26.199.823/0001-81, represented according to its constitutive acts, collects, stores, and uses the personal data of users of its solutions, as well as its business partners.
 
-**1. DEFINIÇÕES** 
+**1. DEFINITIONS**
 
-**1.1.** Para efeitos de leitura e interpretação deste documento, os termos listados terão o  significado conforme a Lei nº 13.709/2018 - LGPD (Lei Geral de Proteção de Dados), disposto abaixo: 
+**1.1.** For the purposes of reading and interpreting this document, the terms listed shall have the meanings as per Law No. 13,709/2018 - LGPD (General Data Protection Law), as detailed below:
 
-1) Usuário: Qualquer pessoa, física ou jurídica, seja ela cliente ou parceiro comercial que  fornecerem Dados de Usuário para utilização da Plataforma da **HEDRO**. 
-1) Dados de Usuário: Dados identificadores de um determinado usuário, subdivididos, para  efeitos deste documento, em: dados pessoais (tais como, mas não se limitando a: nome,  rg, cpf, endereço eletrônico, endereço residencial, telefone); dados de navegação (tais  como, mas não se limitando a: login e senha de acesso quando necessários, tempo de permanência no site da **HEDRO**)  e dados financeiros (informações de conta bancária, dados de cartão de crédito).
-1) Cookies: Arquivos criados automaticamente e armazenados nos dispositivos  (computadores, dispositivos móveis, etc.) dos Usuários ao acessarem sites na internet, e  que armazenam dados identificadores do dispositivo e de navegação. 
+1) **User:** Any person, natural or legal, whether a client or business partner, providing User Data for the use of the **HEDRO** Platform.
+2) **User Data:** Identifying data of a specific user, subdivided, for the purposes of this document, into: personal data (such as, but not limited to: name, ID, CPF, email address, residential address, phone); browsing data (such as, but not limited to: login and access password when necessary, time spent on the **HEDRO** site); and financial data (bank account information, credit card data).
+3) **Cookies:** Automatically created files stored on devices (computers, mobile devices, etc.) of Users when accessing websites on the internet, storing device and browsing identification data.
 
-**2. FINALIDADE** 
+**2. PURPOSE**
 
-**2.1.** A finalidade de utilização dos dados de usuário na **HEDRO** se deve tanto para execução dos serviços fornecidos através da nossa Plataforma, quanto para a melhoria e criação de serviços e divulgação de conteúdo promovido pela própria **HEDRO**, tais como: 
+**2.1.** The purpose of using user data at **HEDRO** is both for the execution of services provided through our Platform and for the improvement and creation of services and content promoted by **HEDRO,** such as:
 
-1) Melhoria dos serviços: os dados dos usuários são utilizados para a melhoria de  desempenho, disposição de conteúdo, entre outros; 
-1) Envio periódico de material publicitário e informativo da própria **HEDRO** para o endereço eletrônico cadastrado por cada Usuário, a fim de mantê-lo atualizado sobre as soluções ofertadas pela **HEDRO,** assim como, das principais notícias do mercado;
-1) Proteção ao crédito, antifraude e avaliação de riscos: os dados dos usuários são utilizados  para agregar valor à proteção dos nossos serviços e clientes, tornando o ambiente mais  seguro. 
+1) Improvement of services: user data is used for performance improvement, content layout, among others;
+2) Periodic sending of advertising and informational material from **HEDRO** to the email address registered by each User, to keep them updated on the solutions offered by **HEDRO,** as well as major market news;
+3) Credit protection, anti-fraud, and risk assessment: user data is used to add value to the protection of our services and clients, making the environment more secure.
 
-**2.2.**  A finalidade para utilização de dados bancários: Utilizamos esses dados para facilitar o processamento de pagamentos pelos serviços que nossos clientes contratam através da nossa Plataforma.
+**2.2.** Purpose for the use of banking data: We use this data to facilitate the processing of payments for services that our clients contract through our Platform.
 
-**3. COLETA** 
+**3. COLLECTION**
 
-**3.1.** A **HEDRO** somente coleta Dados de Usuário para fins legítimos e mantém suas práticas em conformidade com todas as legislações vigentes e determinações e Autoridades Regulatórias, tanto nacionais quanto internacionais. 
+**3.1.** **HEDRO** only collects User Data for legitimate purposes and maintains its practices in compliance with all applicable laws and regulatory authorities, both national and international.
 
-**3.2.** A coleta dos Dados de Usuário pode ser realizada de forma: 
+**3.2.** The collection of User Data can be done in the following ways:
 
-1) Manual e voluntária: mediante preenchimento de formulários pelo próprio Usuário  (exemplo: preenchimento de dados como nome, cpf e endereço quando do cadastro de novo cliente);
-1) Automatizada via *software*: quando informações básicas de padrão de acesso, tipo de  dispositivo e outras informações não diretamente identificáveis são coletadas de forma  automatizada e armazenadas no lado do Usuário e, também, comunicadas para os nossos  fornecedores, podendo ser armazenadas e processadas em ambos os lados da  comunicação. 
+1) Manual and voluntary: by filling out forms by the User themselves (example: filling out data such as name, CPF, and address when registering a new client);
+2) Automated via software: when basic access pattern information, device type, and other non-directly identifiable information are collected automatically and stored on the User's side and also communicated to our suppliers, and may be stored and processed on both sides of the communication.
 
-**4. ARMAZENAMENTO** 
+**4. STORAGE**
 
-**4.1.** Todos os Dados de Usuários coletados são armazenados em servidores e bancos de dados da  **HEDRO** ou de nossos fornecedores ou parceiros (nacionais ou internacionais), todos em plena conformidade com as boas práticas de mercado e com as medidas de segurança da informação necessárias para garantir a observância da legislação vigente. 
+**4.1.** All collected User Data is stored on servers and databases of **HEDRO** or our suppliers or partners (national or international), all in full compliance with market best practices and the necessary information security measures to ensure compliance with current legislation.
 
-**4.2.** As informações coletadas são de nosso uso exclusivo para as finalidades aqui referidas, portanto, não serão vendidas a terceiros em qualquer hipótese. No entanto, podemos divulgar os seus dados pessoais na crença de boa fé de que tal ação é necessária para:
+**4.2.** The information collected is for our exclusive use for the purposes mentioned here, therefore, it will not be sold to third parties under any circumstances. However, we may disclose your personal data in good faith belief that such action is necessary to:
 
-1) Conformidade legal. Compreendendo (i) processos e requisições legais; (ii) estabelecimento ou exercício de nossos direitos legais ou defesa em processos judiciais; ou (iii) conforme requerido por lei; e
-1) Prestação de Serviços por Terceiros. Podemos, ainda, atuar em conjunto com outras empresas em diversas atividades para facilitar o nosso serviço, para executar serviço, bem como patrocinadores dos serviços que serão prestados. Estes recebem seus dados apenas na medida do necessário para a prestação dos serviços contratados. Ressaltamos que nossos contratos são orientados pelas normas de proteção de dados do ordenamento jurídico brasileiro, proibindo estes terceiros de divulgar ou usar os dados para qualquer outra finalidade.
+1) Legal compliance. Understanding (i) legal processes and requests; (ii) establishment or exercise of our legal rights or defense in legal proceedings; or (iii) as required by law; and
+2) Third-Party Service Provision. We may also work together with other companies in various activities to facilitate our service, to perform the service, as well as sponsors of the services to be provided. These receive your data only to the extent necessary for the provision of contracted services. We emphasize that our contracts are guided by the data protection standards of the Brazilian legal system, prohibiting these third parties from disclosing or using the data for any other purpose.
 
-**4.2.** Os Dados de Usuário serão armazenados até: 
+**4.2.** User Data will be stored until:
 
-1) Que o Usuário solicite sua exclusão, nos termos do item 7.1, “a” desta Política; 
-1) Que a **HEDRO** decida por inutilizar os dados, a seu exclusivo critério; 
-1) Que a exclusão dos dados seja determinada por autoridade governamental  (administrativa ou judiciária). 
+1) The User requests its deletion, as per item 7.1, "a" of this Policy;
+2) **HEDRO** decides to render the data useless, at its sole discretion;
+3) Deletion of data is determined by a government authority (administrative or judicial).
 
-**4.3.** Você poderá exercer os direitos aqui descritos por meio de comunicação escrita enviando seu pedido para o e-mail: support@hedro.com.br
+**4.3.** You can exercise the rights described here through written communication by sending your request to the email: support@hedro.com.br
 
-**5. USO E TRATAMENTO** 
+**5. USE AND PROCESSING**
 
-**5.1.** A **HEDRO** realiza todo o tratamento dos dados pessoais do Usuário em plena  conformidade com os limites previstos na Lei 13.709 de 2018 (LGPD – Lei Geral de Proteção de  Dados) e demais regulamentações vigentes. 
+**5.1.** **HEDRO** processes all User personal data in full compliance with the limits provided for in Law No. 13,709 of 2018 (LGPD – General Data Protection Law) and other current regulations.
 
-**5.2.** Os Dados de Usuário são utilizados pela **HEDRO** e compartilhado pela mesma com  parceiros (nacionais ou internacionais) nas possíveis seguintes formas: 
+**5.2.** User Data is used by **HEDRO** and shared by it with partners (national or international) in possible ways:
 
-1) Anonimizada, quando destituídas dos dados pessoais que permitem a individualização do  Usuário (exemplo: para elaboração de estudos e relatórios gerenciais); 
-1) Criptografada, quando os dados devem ser transmitidos de forma segura e de acordo com  padrões de criptografia (ex.: captura e transmissão de dados de pagamento); 
-1) Não anonimizada, quando desnecessária a criptografia e os dados pessoais devem ser  utilizados e/ou compartilhado com parceiros, nos termos das permissões previstas no item 5 abaixo. 
+1) Anonymized, when deprived of personal data that allows the individualization of the User (example: for the preparation of studies and management reports);
+2) Encrypted, when data needs to be transmitted securely and in accordance with encryption standards (e.g.: capture and transmission of payment data);
+3) Non-anonymized, when encryption is unnecessary and personal data must be used and/or shared with partners, in accordance with the permissions provided in item 5 below.
 
-**5.3.** A **HEDRO** poderá compartilhar os dados de usuário com autoridades policiais e  judiciais, bem como com a própria pessoa proprietária dos dados, quando notificada para tanto,  ou a seu próprio critério, quando entender necessário ou adequado o compartilhamento para cooperar com investigações de fraude (utilização indevida de dados pessoais e financeiros de  terceiros) ou qualquer outro tipo de atividade ilegal pelos Usuários. 
+**5.3.** **HEDRO** may share user data with police and judicial authorities, as well as with the data owner themselves when notified to do so, or at its own discretion when it deems necessary or appropriate to cooperate with investigations into fraud (improper use of third-party personal and financial data) or any other type of illegal activity by Users.
 
-**6. CONSENTIMENTO DO USUÁRIO** 
+**6. USER CONSENT**
 
-**6.1.** Ao se cadastrar como usuário, cliente ou parceiro em um dos serviços ou canais da **HEDRO**, o Usuário expressamente concorda que seus Dados de Usuário: 
+**6.1.** By registering as a user, client, or partner in one of **HEDRO's** services or channels, the User expressly agrees that their User Data:
 
-1) Sejam coletados nas formas previstas na cláusula 2 deste termo; 
-1) Sejam utilizados para personalizar sua navegação nos sites da **HEDRO** (ex.:  otimização da navegação visualização da listagem de soluções;  visualização de banners promocionais); 
-1) Sejam incluídos em listas de recebimento de comunicações da **HEDRO** (via e mail; mensagens de texto via SMS ou Whatsapp e afins), incluindo ofertas e promoções,  sendo sua efetivação permitida ou desabilitada conforme as funções de opt-in e opt-out  disponíveis na área autenticada do cliente;
-1) Sejam utilizados de forma anônima (sem identificação individual) para elaboração de  estudos estatísticos e relatórios gerenciais; 
-1) Sejam armazenados em bancos de dados seguros e utilizados para otimização dos serviços; 
-1) Sejam compartilhados de forma anonimizada com parceiros (nacionais ou internacionais)  da **HEDRO** para fins de estudos estatísticos, com sua segurança e conformidade  de uso de acordo com os contratos estabelecidos entre a **HEDRO** e seus  parceiros; 
-1) Sejam compartilhados com parceiros (nacionais ou internacionais) da **HEDRO** para a entrega dos serviços contratados;
-1) Sejam compartilhados com parceiros (nacionais ou internacionais) da **HEDRO** para fins de consulta à base de dados com fins de proteção ao crédito tais como: SERASA,  SPC, SCR – BACEN; 
-1) Sejam compartilhados com parceiros (nacionais ou internacionais) da **HEDRO** para fins de oferecimento de serviços desses parceiros nas plataformas e meios de comunicação utilizados pela **HEDRO**. 
+1) Be collected as provided in clause 2 of this term;
+2) Be used to personalize their navigation on **HEDRO's** sites (e.g.: optimization of visual navigation, viewing the solutions list; viewing promotional banners);
+3) Be included in **HEDRO's** communication receiving lists (via email; SMS or Whatsapp messages, and the like), including offers and promotions, with their effectiveness allowed or disabled according to the opt-in and opt-out functions available in the client's authenticated area;
+4) Be used anonymously (without individual identification) for the preparation of statistical studies and management reports;
+5) Be stored in secure databases and used for service optimization;
+6) Be shared in anonymized form with **HEDRO's** partners (national or international) for statistical studies, with their security and compliance of use according to the contracts established between **HEDRO** and its partners;
+7) Be shared with **HEDRO's** partners (national or international)
 
-**7. DIREITOS DO USUÁRIOS** 
+ for the delivery of contracted services;
+8) Be shared with **HEDRO's** partners (national or international) for the purpose of consulting the database for credit protection, such as: SERASA, SPC, SCR – BACEN;
+9) Be shared with **HEDRO's** partners (national or international) for the purpose of offering services from these partners on the platforms and communication channels used by **HEDRO**.
 
-**7.1.** É facultado ao Usuário: 
+**7. USER RIGHTS**
 
-1) Excluir, parcial ou totalmente, os seus dados de usuário dos bancos de dados da **HEDRO**, mediante solicitação escrita enviada ao endereço eletrônico indicado no item 4.3, ou  solicitação direta à respectiva área comercial, em caso de parceiros comerciais, salvos  os dados protegidos por lei de maior soberania ou necessidades jurídicas; 
-1) Excluir os Cookies, mediante procedimento realizado por sua conta e risco em seus  próprios dispositivos; 
-1) Ser removido das listas de recebimento de ofertas e promoções mediante link de  remoção contido nas próprias mensagens enviadas; 
-1) Atualizar dados, mediante solicitação enviada ao endereço eletrônico indicado no item 4.3;
-1) Não finalizar o cadastro nos meios de contato e contratação da **HEDRO** caso não concorde com  quaisquer termos previstos na presente Política. 
+**7.1.** The User is entitled to:
 
-**8. GERENCIAMENTO DE COOKIES** 
+1) Delete, partially or completely, their user data from **HEDRO's** databases, upon written request sent to the email address indicated in item 4.3, or direct request to the respective commercial area, in the case of business partners, except for data protected by higher sovereignty laws or legal needs;
+2) Delete Cookies, through a procedure performed at their own risk on their own devices;
+3) Be removed from receiving offers and promotions lists through the removal link contained in the messages themselves;
+4) Update data, upon request sent to the email address indicated in item 4.3;
+5) Not complete the registration in **HEDRO's** contact and hiring means if they do not agree with any terms provided in this Policy.
 
-**8.1.** Cookies são arquivos criados pelos websites que você visita. Eles tornam a experiência on-line  dos usuários mais fácil, economizando informações de navegação. Com os cookies, os sites podem  manter os usuários conectados, lembrando-os suas preferências do site e fornecendo conteúdo  relevante localmente. 
+**8. COOKIE MANAGEMENT**
 
-**8.2.** Os cookies são utilizados geralmente para: 
+**8.1.** Cookies are files created by the websites you visit. They make the online experience easier for users, saving browsing information. With cookies, sites can keep users connected, reminding them of their site preferences and providing locally relevant content.
 
-1) Acompanhar suas preferências para enviar somente anúncios de seu interesse; 
-1) Acompanhar os itens armazenados no seu carrinho de compras; 
-1) Realização de pesquisas e diagnósticos para melhorar o conteúdo e serviços; 
-1) Impedir atividades fraudulentas; 
-1) Melhorar a segurança. 
+**8.2.** Cookies are generally used to:
 
-**8.3.** O usuário pode bloquear ou rejeitar nossos cookies. 
+1) Track your preferences to send only ads of interest;
+2) Track items stored in your shopping cart;
+3) Conduct surveys and diagnostics to improve content and services;
+4) Prevent fraudulent activities;
+5) Improve security.
 
-**8.4.** Para mais informações e detalhes sobre os cookies, envie sua solicitação para o e-mail: support@hedro.com.br
+**8.3.** Users can block or reject our cookies.
 
-**9. RESPONSABILIDADES** 
+**8.4.** For more information and details about cookies, send your request to the email: support@hedro.com.br
 
-**9.1.** A **HEDRO** se compromete a:
+**9. RESPONSIBILITIES**
 
-1) além de cumprir com padrões de segurança exigidos pelas regulamentações, envidar seus  melhores esforços para manter a privacidade dos dados de usuários, com a utilização de  tecnologia e protocolos de segurança da informação, observado o estado da técnica  disponível conforme padrões de mercado; 
-1) excluir e/ou atualizar os Dados de Usuário após solicitação conforme item 6.1 alíneas “a, c e  d” acima; 
-1) somente firmar parcerias com terceiros que envolvam compartilhamento de dados caso  estes terceiros também se comprometam a cumprir com todos os padrões e obrigações  exigidos por lei no que concerne à coleta, armazenamento e tratamento de dados; 
-1) relatar às autoridades competentes e aos Usuários quaisquer eventos que envolvam  exposição indevida dos Dados de Usuários, bem como envidar seus melhores esforços para  evitar prejuízos aos Usuários em razão de tais eventos. 
+**9.1.** **HEDRO** undertakes to:
 
-**9.2.** A **HEDRO** não se responsabiliza por  perdas ou danos sofridos por Usuários em razão de exposição indevida de seus Dados que tenha  ocorrido por qualquer outra razão senão o dolo ou descumprimento comprovado da legislação. 
+1) In addition to complying with security standards required by regulations, make its best efforts to maintain the privacy of user data, using technology and information security protocols, observing the state of the art available according to market standards;
+2) Delete and/or update User Data after a request as per item 6.1 clauses "a, c, and d" above;
+3) Only enter into partnerships with third parties involving data sharing if these third parties also undertake to comply with all standards and obligations required by law regarding the collection, storage, and processing of data;
+4) Report to competent authorities and Users any events involving undue exposure of User Data, as well as make its best efforts to prevent harm to Users due to such events.
 
-**9.3.** A presente Política de Privacidade poderá ser alterada unilateralmente pela **HEDRO** a qualquer momento. A **HEDRO** se compromete a publicar o texto da nova política em  todos os seus sites, plataformas e portais, avisando os usuários da atualização realizada. Qualquer nova contratação realizada por usuários após a alteração da Política de Privacidade implicará em aceite tácito  das novas condições previstas. 
+**9.2.** **HEDRO** is not responsible for losses or damages suffered by Users due to undue exposure of their Data that has occurred for any reason other than proven fraud or non-compliance with the law.
 
-**10. CONTATO** 
+**9.3.** This Privacy Policy may be unilaterally changed by **HEDRO** at any time. **HEDRO** undertakes to publish the text of the new policy on all its websites, platforms, and portals, notifying users of the update made. Any new hiring made by users after the change in the Privacy Policy implies tacit acceptance of the new conditions provided.
 
-**10.1.** Todo contato relativo a privacidade e proteção de dados pode ser efetivado através da  comunicação direta por e-mail com o encarregado de proteção de dados. Para isso, deve ser  utilizado o e-mail support@hedro.com.br
+**10. CONTACT**
 
-**10.2.** Para exercer os direitos estabelecidos pela Lei, o usuário pode entrar em contato tanto com  encarregado de proteção de dados, em e-mail supracitado, ou entrar em contato com os canais  de atendimento da **HEDRO**.
+**10.1.** Any contact regarding privacy and data protection can be made through direct email communication with the data protection officer. For this, the email support@hedro.com.br should be used.
 
+**10.2.** To exercise the rights established by the Law, the user can contact both the data protection officer, at the aforementioned email, or contact **HEDRO's** service channels.
