@@ -4,7 +4,7 @@ LGPD – Law No. 13,709/2018
 
 **Last updated: June 5, 2023.**
 
-This document, hereinafter referred to as the "Privacy Policy," outlines how **HEDRO INTELLIGENT SYSTEMS LTD,** located at Hélio Ribeiro Street, 212, Centro, Entre Rios de Minas/MG, registered under CNPJ No. 26.199.823/0001-81, represented according to its constitutive acts, collects, stores, and uses the personal data of users of its solutions, as well as its business partners.
+This document, hereinafter referred to as the "Privacy Policy," outlines how **HEDRO INTELLIGENT SYSTEMS LTD,** located at Hélio Ribeiro Street, 212, Center, Entre Rios de Minas/MG, registered under CNPJ No. 26.199.823/0001-81, represented according to its constitutive acts, collects, stores, and uses the personal data of users of its solutions, as well as its business partners.
 
 **1. DEFINITIONS**
 
